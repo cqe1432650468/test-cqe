@@ -6,5 +6,9 @@ public class HelloWorld{
   static void sayHi(){
     System.out.print("大家好!");
   }
+	static void sayHi(){
+    System.out.print("大家好!");
+  }
+	
 }
 						
